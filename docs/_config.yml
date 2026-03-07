@@ -3,28 +3,28 @@ github: [metadata]
 remote_theme: dieghernan/chulapa
 
 
-repository: dieghernan/chulapa
+repository: ckakalou/ckakalou.github.io
 url: "https://ckakalou.github.io"
 baseurl: ""
 
-title: Chulapa
-subtitle: A full flexible Jekyll theme
+title: Christine Kakalou
+subtitle: Research Associate, PhD Candidate
 description: Template for creating free sites on Github Pages
 og_image: "./assets/img/site/banner.png"
-twitter_site: dhernangomez
-timezone: "Europe/Madrid"
+twitter_site: ckakalou
+timezone: "Europe/Athens"
 author:
-  name: dieghernan
+  name: ckakalou
   avatar: ./assets/img/site/dieghernan-avatar.png
-  location: Madrid, Spain
+  location: Barcelona, Spain
   links:
-    - url: https://github.com/dieghernan/
+    - url: https://github.com/ckakalou/
       icon: "fab fa-github"
       label: GitHub
-    - url: https://dieghernan.github.io/
+    - url: https://ckakalou.github.io/
       icon: fas fa-blog
       label: Blog
-    - url: https://stackoverflow.com/users/7877917/dieghernan
+    - url: https://stackoverflow.com/users/5930799/ckjun
       icon: "fab fa-stack-overflow"
       label: StackOverflow
 gtag_id:  UA-139034853-5
