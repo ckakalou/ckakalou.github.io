@@ -4,8 +4,8 @@ remote_theme: dieghernan/chulapa
 
 
 repository: dieghernan/chulapa
-url: "https://dieghernan.github.io"
-baseurl: "/chulapa"
+url: "https://ckakalou.github.io"
+baseurl: ""
 
 title: Chulapa
 subtitle: A full flexible Jekyll theme
