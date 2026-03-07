@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>Chulapa | A full flexible Jekyll theme</title>
+		<title>Christine Kakalou | Research Associate, PhD Candidate</title>
 		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
 		<link>https://ckakalou.github.io/</link>
 		<description>Template for creating free sites on Github Pages</description>
 		<language>en-US</language>
-		<copyright>(c) 2026, dieghernan</copyright>	
-		<pubDate>Sat, 07 Mar 2026 13:20:53 +0100</pubDate>
-		<lastBuildDate>Sat, 07 Mar 2026 13:20:53 +0100</lastBuildDate>
+		<copyright>(c) 2026, ckakalou</copyright>	
+		<pubDate>Sat, 07 Mar 2026 14:29:10 +0200</pubDate>
+		<lastBuildDate>Sat, 07 Mar 2026 14:29:10 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="https://ckakalou.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		<image>
-			<title>Chulapa | A full flexible Jekyll theme</title>
+			<title>Christine Kakalou | Research Associate, PhD Candidate</title>
 			<url>https://ckakalou.github.io/assets/img/site/banner.png</url>
 			<link>https://ckakalou.github.io/</link>
 			<description>Template for creating free sites on Github Pages</description>
@@ -59,6 +59,6 @@
 		    <category>bootstrap</category><category>jekyll</category><category>news</category><media:title type="html"><![CDATA[Welcome ]]></media:title>
       <media:content url="https://ckakalou.github.io/assets/img/site/chulapa-madrid.jpg" medium="image"/>
       <media:thumbnail url="https://ckakalou.github.io/assets/img/site/chulapa-madrid.jpg" /><guid isPermaLink="true">https://ckakalou.github.io/blog/20200515_welcome</guid>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0300</pubDate>
 		</item></channel>
 </rss>
