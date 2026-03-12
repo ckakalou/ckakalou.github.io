@@ -16,8 +16,8 @@ twitter_site: ckakalou
 timezone: "Europe/Athens"
 author:
   name: ckakalou
-  avatar: ./assets/img/site/dieghernan-avatar.png
-  location: Barcelona, Spain
+  avatar: ./assets/img/site/kakalou_avatar.png
+  location: Thessaloniki, Greece
   links:
     - url: https://github.com/ckakalou/
       icon: "fab fa-github"
@@ -125,7 +125,7 @@ navbar:
       - title: Contribute
         url: /contribute
       - title: Changelog
-        url: https://github.com/dieghernan/chulapa/blob/master/CHANGELOG.md
+        url: https://github.com/ckakalou/ckakalou.github.io/blob/master/CHANGELOG.md
 footer:
   links:
     - label: "RSS"
@@ -133,11 +133,11 @@ footer:
       url:  "./atom.xml"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: https://github.com/dieghernan/
+      url: https://github.com/ckakalou/
     - label: "My blog"
       icon: "fas fa-blog"
-      url: "https://dieghernan.github.io/"
-  copyright: "&copy; 2021 <span class='chulapa'>Chulapa</span> developers"
+      url: "https://ckakalou.github.io/"
+  copyright: "&copy; 2026 <span class='chulapa'>Ckakalou</span> developers"
 
 # C. Theme Settings
 chulapa-skin:
