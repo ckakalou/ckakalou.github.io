@@ -137,7 +137,7 @@ footer:
     - label: "My blog"
       icon: "fas fa-blog"
       url: "https://ckakalou.github.io/"
-  copyright: "&copy; 2026 <span class='chulapa'>Ckakalou</span> developers"
+  copyright: "&copy; 2026 <span class='chulapa'>Ckakalou</span>"
 
 # C. Theme Settings
 chulapa-skin:
