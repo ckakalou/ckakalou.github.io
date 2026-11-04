@@ -6,9 +6,9 @@
 		<link>https://ckakalou.github.io/</link>
 		<description>Research site for</description>
 		<language>en-US</language>
-		<copyright>(c) 2026, ckakalou</copyright>	
-		<pubDate>Mon, 02 Nov 2026 20:12:40 +0200</pubDate>
-		<lastBuildDate>Mon, 02 Nov 2026 20:12:40 +0200</lastBuildDate>
+		<copyright>(c) 2026, ckakalou</copyright>
+		<pubDate>Wed, 04 Nov 2026 18:11:05 +0200</pubDate>
+		<lastBuildDate>Wed, 04 Nov 2026 18:11:05 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="https://ckakalou.github.io/rss.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,9 @@
 			<url>https://ckakalou.github.io/assets/img/site/banner.png</url>
 			<link>https://ckakalou.github.io/</link>
 			<description>Research site for</description>
-		</image><item>
+		</image>
+		<item>
+			<dc:creator>ckakalou</dc:creator>
 			<title>Welcome</title>
 			<description>
 				<![CDATA[	

@@ -3,13 +3,14 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://ckakalou.github.io/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://ckakalou.github.io/" rel="alternate" type="text/html" />
-	<updated>2026-11-02T20:12:40+02:00</updated>
+	<updated>2026-11-04T18:11:05+02:00</updated>
 	<id>https://ckakalou.github.io/atom.xml</id>
 	<title>Christine Kakalou | Research Associate, PhD Candidate</title>
 	<subtitle>Research Associate, PhD Candidate</subtitle>
+	
 	<author>
 		<name>ckakalou</name>
-		<uri>https://github.com/ckakalou/</uri>			
+		<uri>https://github.com/ckakalou/</uri>
 	</author>
 	<rights>(c) 2026, ckakalou</rights>
 	<icon>https://ckakalou.github.io/assets/img/site/brand-white.png</icon>
@@ -57,7 +58,9 @@
 		</content>
 		
 		<author>
-			<name>ckakalou</name><uri>https://github.com/ckakalou/</uri></author>
+			<name>ckakalou</name>
+			<uri>https://github.com/ckakalou/</uri>
+		</author>
 		<summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;chulapa&quot;&gt;Chulapa&lt;/span&gt;. This is another Jekyll theme that you can use for creating your site.&lt;/p&gt;
 </summary>
 		<category term="posts"/>
